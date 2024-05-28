@@ -1,0 +1,35 @@
+!DOCTYPE html
+html
+    head
+        meta charset=UTF-8
+        titleИстория McLarentitle
+        link href=style.css rel=stylesheet type=textcss
+    head
+    body 
+     div class=container 
+        table class=main_table 
+            tr
+                td class=main_table_td
+
+         pimg src=httpsautomotive-heritage.comuploada1552825814.jpegheight=150 width=300 align=center p
+ph1span class=textMcLaren Automotivespanh1p
+ph3Брюс Макларен и его автогоночная командаh3p
+divtabletrtd border1px; solid;border-color rgb(114, 114, 114);ppИстория автогоночной команды Макларен началась с того что Команда Mc Laren Motor Racing Ltd была зарегистрирована в далеком 1963 году новозеландским автогонщиком Брюсом МакЛареном и его американским другом и коллегой Тедди Майером для участия в серии автогонок Тасман, которая проходила в Новой Зеландии.p
+
+    pВ тот раз Брюсу Мак Ларену удалось выиграть гонку и стать чемпионом. Последующие два года он выступал под знаменами команды Купер, защищая ее честь в качестве пилота на Формуле-1. И, лишь в 1966 году Брюс дебютировал в составе команды Макларен в Формуле-1, будучи к тому моменту единственным пилотом команды.p
+    
+    tdtrtable
+    table align=center
+        tbody
+            tr
+                tdimg src=httpsrus.teamimagesarticle67962017-08-30-223_18046-6_593851.webp width=387px height=244px allowfullscreentd
+                tdimg src=httpswww.tz.debilder20200626138165211271854162-bruce-mclaren-gruender-beruehmten-formel-1-teams-in-seinem-rennwagen-V4kapOFHeef.jpg  width=387px height=244px allowfullscreentd
+tr
+tbody
+table
+    ppВ тех соревнованиях он заработал три очка, заняв четырнадцатое место в зачете пилотов. Разве мог тогда он знать, что пройдет всего несколько лет и его имя станет одним из самых известных в миреp
+    
+    pСобственно, как спортсмен Брюс МакЛарен сверкнул один единственный раз, когда в 1968 году его болид F-1 пришел к финишу первым на Гран При Испании. Но это была уже его машина — McLarenM2B. А всего через два года Брюс трагически погиб 2 июня 1970 года, тестируя новую машину для гонок американской серии CanAm.p
+
+    pВ тот раз Брюсу Мак Ларену удалось выиграть гонку и стать чемпионом. Последующие два года он выступал под знаменами команды Купер, защищая ее честь в качестве пилота на Формуле-1. И, лишь в 1966 году Брюс дебютировал в составе команды Макларен в Формуле-1, будучи к тому моменту единственным пилотом команды.p
+    iframe width=887 height=455 src=httpswww.youtube.comembedcECwisYd1tY title=McLaren’s 
